@@ -1,43 +1,18 @@
-body {
-background-color: rgb(21, 21, 226);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.row{
+    height: 60px;
 }
-
-
-header {
-    background-color: rgb(255, 165, 0);
-    font-size: xx-large;
-    color: rgb(0, 0, 0);
+nav{
+    background-color: aqua;
+}
+nav h1{
     text-align: center;
 }
-
-nav {
-    background-color: rgb(255, 165, 0);
-    color: rgb(0, 0, 0);
-    font-size: 32px;
-    text-align: center;
-    width: 1360px;
+.left{
+    background-color: black;
 }
-
-
-
-.col-right {
-    background-color: rgb(14, 235, 14);
-    height: 1000px;
-    width: 6800px;
-    font-size: 20px;
+.right{
+    background-color: blue;
 }
-
-.col-left {
-    background-color: aliceblue;
-    height: 1000px;
-    width: 6800px;
-    font-size: 20px;
-}
-
-footer {
-    background-color: rgb(255, 165, 0);
-    color: rgb(0, 0, 0);
-    font-size: 32px;
-    text-align: center;
+.footer{
+    background-color: brown;
 }
