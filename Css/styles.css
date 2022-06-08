@@ -1,5 +1,8 @@
-.row{
-    height: 60px;
+.jumbotron{
+    background-color: coral;
+}
+.row{ 
+    height: 100px;
 }
 nav{
     background-color: aqua;
@@ -15,4 +18,16 @@ nav h1{
 }
 .footer{
     background-color: brown;
+}
+.cont1{ 
+    height: 600px;
+}
+.short{
+    height: 200px;
+}
+.medium{
+    height: 400px
+}
+.tall{
+    height: 600px;
 }
